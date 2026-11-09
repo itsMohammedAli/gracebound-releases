@@ -1,10 +1,12 @@
 # Gracebound
 
+Current release: **0.0.1 Beta**.
+
 Portable Elden Ring boss tracker for Windows. Includes 207 base-game and Shadow of the Erdtree bosses, character save import, offline live tracking, region filters, spoiler hiding, and completion tracking.
 
 ## Download and run
 
-Download **Gracebound-Windows-x64.zip** from the [latest release](https://github.com/itsMohammedAli/gracebound-releases/releases/latest). Extract the entire ZIP to a folder of your choice, then run **gracebound.exe**. Keep the DLLs and data folder together. No installer or administrator privileges are needed.
+Download **Gracebound-Windows-x64.zip** from the [latest release](https://github.com/itsMohammedAli/gracebound-releases/releases/tag/v0.0.1). Extract the entire ZIP to a folder of your choice, then run **gracebound.exe**. Keep the DLLs and data folder together. No installer or administrator privileges are needed.
 
 ## Updates
 
